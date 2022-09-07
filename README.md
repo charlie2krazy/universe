@@ -4,7 +4,7 @@ Discord bot with everything you need made in javascript (probably)
 
 ## Bot Features
 
-Everything is ASS AND DOGSHIT
+Everything is ASS AND DOGSHIT (ps: bot is offline 99% of the time)
 
 ### Invite Link
 
